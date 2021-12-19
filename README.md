@@ -1,3 +1,13 @@
 ![](https://github.com/KrishnarajT/Icy/blob/master/icy_.png)
 
-This is the second game that I made using pygame, and in this game I havent used help, and done it myself with the help of google of Course, the game idea is brutally stolen from the android game called Color Sense, but its a good simple first game, so I thought I should try it. It's turned out fine. But am looking forward to more advanced games.
+This is the second game I made using Pygame. 
+Used to Test your your colorblindness
+
+# Screenshots
+https://github.com/KrishnarajT/Icy/blob/master/Screenshots/Icy.png
+https://github.com/KrishnarajT/Icy/blob/master/Screenshots/Icy%20(1).png
+https://github.com/KrishnarajT/Icy/blob/master/Screenshots/Icy%20(2).png
+https://github.com/KrishnarajT/Icy/blob/master/Screenshots/Icy%20(3).png
+# Credits
+The Idea is taken from the Android Game ColorSense, and I have merely Tried to replicate it as I thought it was a cool idea. 
+
